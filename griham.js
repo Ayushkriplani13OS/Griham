@@ -20,7 +20,7 @@ btnToggle.forEach(item => {
     })
 })
 
-//------Menu Toggle-----------------------
+// Menu toggle
 const menuToggle = document.querySelectorAll('header .menu');
 const menu = document.querySelector('header ul');
 
